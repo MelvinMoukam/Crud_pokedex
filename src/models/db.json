@@ -1,0 +1,242 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Bulbizarre",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Herbizarre",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "HP": "60",
+      "Attack": "62",
+      "Defense": "63",
+      "Speed": "60",
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Florizarre",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "HP": 80,
+      "Attack": 82,
+      "Defense": 83,
+      "Speed": 80,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/3.png"
+    },
+    {
+      "id": 4,
+      "name": "Salamèche",
+      "type": [
+        "Fire"
+      ],
+      "HP": 39,
+      "Attack": 52,
+      "Defense": 43,
+      "Speed": 65,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    },
+    {
+      "id": 5,
+      "name": "Reptincel",
+      "type": [
+        "Fire"
+      ],
+      "HP": 58,
+      "Attack": 64,
+      "Defense": 58,
+      "Speed": 80,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+    },
+    {
+      "id": 6,
+      "name": "Dracaufeu",
+      "type": [
+        "Fire",
+        "Flying"
+      ],
+      "HP": 78,
+      "Attack": 84,
+      "Defense": "78",
+      "Speed": "60",
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    {
+      "id": 7,
+      "name": "Carapuce",
+      "type": [
+        "Water"
+      ],
+      "HP": 44,
+      "Attack": 48,
+      "Defense": 65,
+      "Speed": 43,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    {
+      "id": 8,
+      "name": "Carabaffe",
+      "type": [
+        "Water"
+      ],
+      "HP": 59,
+      "Attack": 63,
+      "Defense": 80,
+      "Speed": 58,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+    },
+    {
+      "id": 9,
+      "name": "Tortank",
+      "type": [
+        "Water"
+      ],
+      "HP": 79,
+      "Attack": 83,
+      "Defense": 100,
+      "Speed": 78,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+    },
+    {
+      "id": 10,
+      "name": "Chenipan",
+      "type": [
+        "Bug"
+      ],
+      "HP": 45,
+      "Attack": 30,
+      "Defense": 35,
+      "Speed": 45,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10.png"
+    },
+    {
+      "id": 11,
+      "name": "Chrysacier",
+      "type": [
+        "Bug"
+      ],
+      "HP": 50,
+      "Attack": 20,
+      "Defense": 55,
+      "Speed": 30,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/11.png"
+    },
+    {
+      "id": 12,
+      "name": "Papilusion",
+      "type": [
+        "Bug",
+        "Flying"
+      ],
+      "HP": 60,
+      "Attack": 45,
+      "Defense": 50,
+      "Speed": 70,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+    },
+    {
+      "id": 13,
+      "name": "Aspicot",
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "HP": 40,
+      "Attack": 35,
+      "Defense": 30,
+      "Speed": 50,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/13.png"
+    },
+    {
+      "id": 14,
+      "name": "Coconfort",
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "HP": 45,
+      "Attack": 25,
+      "Defense": 50,
+      "Speed": 35,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/14.png"
+    },
+    {
+      "id": 15,
+      "name": "Dardargnan",
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "HP": 65,
+      " Attack": 90,
+      " Defense": 40,
+      "Speed": 75,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+    },
+    {
+      "id": 16,
+      "name": "Roucool",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 40,
+      "Speed": 56,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+    },
+    {
+      "id": 17,
+      "name": "Roucoups",
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "HP": 63,
+      "Attack": 60,
+      "Defense": 55,
+      "Speed": 71,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+    },
+    {
+      "id": 19,
+      "name": "Rattata",
+      "type": [
+        "Normal"
+      ],
+      "HP": 30,
+      "Attack": 56,
+      "Defense": 35,
+      "Speed": 72,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+    },
+    {
+      "id": 20,
+      "name": "Rattatac",
+      "type": [
+        "Normal"
+      ],
+      "HP": 55,
+      "Attack": 81,
+      "Defense": 60,
+      "Speed": 97,
+      "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+    }
+  ]
+}
